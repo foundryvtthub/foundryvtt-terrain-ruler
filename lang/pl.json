@@ -3,7 +3,7 @@
 		"settings": {
 			"defaultToggleState": {
 				"name": "Domyślny stan przełącznika",
-				"hint": "Stan przełącznika Terrian Ruler po dołączeniu do gry.",
+				"hint": "Stan przełącznika terrain ruler po dołączeniu do gry.",
 				"choices": {
 					"on": "Włączony",
 					"off": "Wyłączony",
